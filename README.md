@@ -1,4 +1,5 @@
 **Ecommerce Store Analysis - Superstore USA Dataset**
+
 Overview :
 This repository contains the analysis of an ecommerce store using the Superstore USA dataset. The dataset comprises 9325 rows and 30 columns, covering various aspects of ecommerce operations. The goal of this project is to perform Exploratory Data Analysis (EDA) on the dataset and identify key factors that contribute to ecommerce success.
 
